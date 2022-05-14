@@ -1,5 +1,5 @@
-# Dashy - The best Pterodactyl client panel
-An **open source** pterodactyl client panel developed by Koru Studios. Beta 1 coming soon!
+# Dashy - The best Pterodactyl and Dashy Panel client area
+An **open source** Pterodactyl and Dashy Panel client area developed by The Koru Company. Beta 1 coming soon!
 
 **In development:**
 
